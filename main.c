@@ -12,6 +12,7 @@ int main() {
   insert(t, 73);
   insert(t, 100);
   insert(t, 101);
+  insert(t, 102);
   
   imprime(t, "oi");
 
